@@ -1,0 +1,17 @@
+img{height: 160px;
+object-fit: cover;}
+
+span{margin: 6px ;}
+section header{border-top: 1px rgba(245, 245, 245, 0.237) solid;
+    padding-block: 12px 24px ;}
+
+
+.wekly { margin-bottom: 80px;
+
+
+
+    header a{justify-self: end;
+    align-items: center;
+img{align-items: center;}
+}
+}

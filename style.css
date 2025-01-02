@@ -1,0 +1,19 @@
+@import url(nav.css);
+@import url(header.css);
+@import url(main.css);
+@import url(wekly.css);
+@import url(class.css);
+@import url(footer.css);
+@import url(featured.css);
+@import url(ia.css);
+@import url(more.css);
+
+#featured{grid-area: A;}
+#wekly{grid-area: B;}
+#ia{grid-area: C;}
+#more{grid-area: D;}
+
+
+
+
+

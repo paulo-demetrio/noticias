@@ -1,0 +1,43 @@
+.container{max-width: 1180px;
+    padding-inline: 32px;
+    margin-inline: auto;}
+.grid-flow-column{
+      grid-auto-flow: column;
+    }
+.alice-regular {
+      font-family: "Alice", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+.p{color: rgba(245, 245, 245, 0.64);}
+.P{color: rgba(245, 245, 245, 0.628);
+font: 100;}
+
+.collumn{grid-template-columns: repeat(1, 1fr);}
+
+.paddingtop{padding-top: 120px;}
+
+.justifybet{justify-content: space-between;}
+
+.margin20{margin: 16px 0px 8px;}
+
+.marginbottom{margin-bottom: 24px;}
+
+.height10{align-items: start;}
+#ia{
+
+strong{color: rgb(255, 255, 255);
+font: 900 bold white;}
+}
+
+.absolute{position: absolute;}
+
+.gap9{gap: 9px;}
+
+.icont{display: flex; align-items: center;}
+
+
+.col2{grid-template-columns: repeat(2, 1fr);}
+.width{width: 190px;}
+.aling{text-align: center;}

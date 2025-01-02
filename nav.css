@@ -1,0 +1,45 @@
+*{padding: 0;
+margin: 0;
+list-style-type: none;
+}
+
+
+
+body{background-color: #051338;
+    font-family: 'Archivo';
+        font-weight: 100;
+        font-size: medium;}
+h1{font-family: 'Times New Roman'}
+
+
+
+
+
+.cabecalho{display: grid;
+justify-content: space-between;
+gap: 10px;
+padding: 16px;
+grid-template-columns: repeat(3,  auto);
+color: white;}
+
+
+.links{
+    display: flex;
+justify-content: space-between;
+border: 0.1px white solid;
+padding: 5px;
+
+
+}
+
+
+#header>h1{color: #60A5FA;}
+
+#header>div{width: 50px;
+display: flex;
+gap: 2px;
+img{width: 15px;
+height: 15px;
+}
+}
+
